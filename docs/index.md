@@ -1,8 +1,18 @@
 # Open Science Notes
 
+## Guides
+
+- Seven Easy Steps to Open Science [[Article](https://econtent.hogrefe.com/doi/10.1027/2151-2604/a000387)]
 ## Scholarly Publications
 
 - A guide to preregistration and Registered Reports [[Preprint](https://osf.io/preprints/metaarxiv/x7aqr)]
+
+### Open Peer Review
+
+- Preprint Peer-Review 
+  - [Review Commons](https://www.reviewcommons.org/)
+  - [Peer Community In](https://peercommunityin.org/)
+  - [PreReview](https://prereview.org/)
 
 ## Open Data
 
@@ -14,6 +24,8 @@
 
 ### Training Resources
 
+- Framework for Open and Reproducible Research Training (FORRT) [[Web](https://forrt.org/)]
+  - Open Scholarship Knowledge Base is now merged with FORRT [[Web](https://oercommons.org/hubs/OSKB#oskb-collections)]
 - The Open Science Training Handbook [[Web](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/)]
 
 ### Research and Scholarship
