@@ -1,5 +1,7 @@
 # Open Science Notes
 
+Open Science is changing the research landscape that has been the status quo for many decades. Sparked by digital transformation, it is changing how research is performed, how outputs from research are disseminated, and how researchers collaborate. This transition not only will affect how researchers work, but also how researchers will be assessed and rewarded.
+
 ## Guides
 
 - Seven Easy Steps to Open Science [[Article](https://econtent.hogrefe.com/doi/10.1027/2151-2604/a000387)]
